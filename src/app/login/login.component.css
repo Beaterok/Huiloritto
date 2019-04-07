@@ -1,0 +1,8 @@
+.login-img{
+    height: 50px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+  }
